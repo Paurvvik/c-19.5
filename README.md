@@ -1,2 +1,2 @@
-# c-19.5
-C 19.5
+# p5.play-boilerplate
+Boiler plate for p5.play
